@@ -4,3 +4,9 @@ Arial, sans-serif;
 h1{
   text-indent:110px;
 }
+main a{
+  color:maroon;
+}
+aside a{
+  color:steelblue;
+}
