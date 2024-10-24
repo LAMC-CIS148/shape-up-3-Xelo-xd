@@ -1,13 +1,16 @@
 body
-font-family:
+font-family:{
 Arial, sans-serif;
 }
-h1:{
+h1:
+{
   text-indent:110px;
 }
-main a:{
+main a:
+{
   color:maroon;
 }
-aside a:{
+aside a:
+{
   color:steelblue;
 }
