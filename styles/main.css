@@ -1,5 +1,5 @@
 body
-font-family
+font-family:
 Arial, sans-serif;
 }
 h1:{
@@ -8,6 +8,6 @@ h1:{
 main a:{
   color:maroon;
 }
-aside a{
+aside a:{
   color:steelblue;
 }
