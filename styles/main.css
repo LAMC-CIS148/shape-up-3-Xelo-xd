@@ -1,9 +1,30 @@
 <style>
 body{
-    font-family: Arial, sans-serif;
-}
+    font-family: Arial, Hevetica, sans-serif;}
+a{ 
+    font-wieght:bold;}
 header img {
-  text-indent:110px;}
+  float:left;}
+header h2{ 
+    font-size:250%;
+    font-style:italics;
+    color:steelblue;
+    text-index: 45px;
+    text-shadow:3px,3px,3px steelblue;}
+header h3{
+    font-size:150%;
+    text-indent:45px;}
+section h1{
+    font-size:160%;}
+section h2{
+    font-size:130%;}
+section h3{
+    color:maroon;
+    font-size:110%}
+section p{
+    font-size:100%;}
+section a: link; section
+
 main a{
   color:maroon;}
 aside a{
