@@ -29,5 +29,6 @@ section a hover, section a: focus {color: steelblue;}
     aside ul { line-height: 1.5; }
     aside a:link, aside a: visited { color: steelblue; }
     aside a:hover, aide a:focus { color:maroon }
+ body }
 footer p { text-align:center; 
         font-size: 85%; }
