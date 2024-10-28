@@ -23,10 +23,11 @@ section h3{
     font-size:110%}
 section p{
     font-size:100%;}
-section a: link; section
-
-main a{
-  color:maroon;}
-aside a{
-  color:steelblue;}
-</style
+section a:link; section a:visited {color:maroon;}
+section a hover, section a: focus {color: steelblue;}
+    aside h2 { 130%; }
+    aside ul { line-height: 1.5; }
+    aside a:link, aside a: visited { color: steelblue; }
+    aside a:hover, aide a:focus { color:maroon }
+footer p { text-align:center; 
+        font-size: 85%; }
