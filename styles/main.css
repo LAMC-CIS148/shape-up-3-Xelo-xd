@@ -1,6 +1,6 @@
 style
 body{
-    font-family: Arial, Hevetica, sans-serif;}
+    font-family: Arial, Hevetica, sans-serif;
 a{ 
     font-weight:bold;}
 header img {
@@ -28,7 +28,7 @@ section a: hover, section a: focus {color: steelblue;}
     aside h2:{font-size: 130%; }
     aside ul {line-height: 1.5; }
     aside a:link, aside a:visited{ color: steelblue; }
-    aside a:hover, aside a:focus { color:maroon }
+    aside a:hover, aside a:focus { color:maroon };
 }
 footer p { 
     text-align:center; 
