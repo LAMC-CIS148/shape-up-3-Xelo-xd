@@ -29,7 +29,7 @@ section a: hover, section a: focus {color: steelblue;}
     aside ul {line-height:1.5;}
     aside a:link, aside a:visited{ color: steelblue; }
     aside a:hover, aside a:focus { color:maroon;}
-}
+;}
 footer p { 
     text-align:center; 
         font-size: 85%; }
