@@ -4,7 +4,9 @@ body{
 a{ 
     font-weight:bold;}
 header img {
-  float:left;}
+  float:left;
+}
+h1{ text-indent: 30px:}
 header h2{ 
     font-size:250%;
     font-style:italic;
