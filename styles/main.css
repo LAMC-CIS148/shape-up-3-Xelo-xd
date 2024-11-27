@@ -1,6 +1,6 @@
-style
-body{
-    body {
+a{
+    font-weight:bold;}
+    body{
 	font-family: Arial, Helvetica, sans-serif;
     width: 900px;
     margin: 0 auto;
@@ -12,8 +12,6 @@ body{
 	margin: 0;
 	padding: 0;
 }
-a{ 
-    font-weight:bold;}
 header {
     background-image: linear-gradient(to bottom, white 0%, lightsteelblue 100%);
     padding: 15px 30px; 
